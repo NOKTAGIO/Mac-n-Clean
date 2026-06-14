@@ -1,6 +1,6 @@
 # Mac-n-Clean
 <p align="center">
-  <img src="logo.png" alt="Mac-n-Clean Logo" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="logo.png" alt="Mac-n-Clean Logo" width="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </p>
 
 <h1 align="center">🧹 Mac-n-Clean</h1>
