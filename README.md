@@ -29,7 +29,8 @@ This tool helps you free up disk space on macOS by removing old temporary files 
     ```bash
     python3 cleaner.py
 
-The script runs in simulation mode by default. Type oui to confirm real deletion, or no to cancel.
+The script runs in simulation mode by default. Type oui to confirm real deletion, or non to cancel.
+
 ⚠️ Warning Always review the simulation report before confirming deletion. Backup important data first!
 
 📝 License MIT License - Use at your own risk!
